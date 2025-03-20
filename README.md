@@ -1,18 +1,18 @@
-#Finance Data Automation & Analysis Project
+# Finance Data Automation & Analysis Project
 
-Overview
+## Overview
 
 This project focuses on automating the processing and analysis of finance data received via email. Using Power Automate, Power Query, and Power BI, the data is cleaned, transformed, and visualized to extract meaningful insights. The final output is an interactive dashboard hosted on Power BI Services.
 
-Objectives
+## Objectives
 
-Automate the collection and integration of finance data.
+ - Automate the collection and integration of finance data.
 
-Perform efficient data transformation using Power Query.
+ - Perform efficient data transformation using Power Query.
 
-Gain insights through data visualization and DAX calculations.
+ - Gain insights through data visualization and DAX calculations.
 
-Publish and share interactive dashboards via Power BI Services.
+ - Publish and share interactive dashboards via Power BI Services.
 
 Steps Involved
 
